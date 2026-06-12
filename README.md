@@ -3,6 +3,14 @@
 <!--
 **siddhiwanzkhade/siddhiwanzkhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Data Science enthusiast with a keen will to learn every passing day ! 
+
+I am good at writing code in Python and R and have a command over Python libraries like numpy, pandas, sklearn ,spaCy and deep learning frameworkds like PyTorch and Tensorflow. Skilled in data visualization using Tableau and Power BI to deliver actionable insights. I am focused on delivering clear, impactful results that support organisational goals. Recently I've been deep in NLP ,LLMs, multimodal AI, and agentic systems — building things that are not just smart but actually reliable and explainable. Because at the end of the day , all I care about is building things that matter - for both customers and  businesses.
+
+I love connecting with people who are genuinely excited about data and AI and are always up for a good conversation about what's next in this space.
+
+Let’s connect if you're working on anything exciting or have a role that aligns!
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
