@@ -8,10 +8,6 @@ I’m curious, always learning, and drawn to building data and AI systems that a
 
 I love connecting with people who are genuinely excited about data and AI and are always up for a good conversation about what's next in this space.
 
-Let’s connect if you're working on anything exciting or have a role that aligns!
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on applied ML, NLP, and LLM-based systems  
 - 🌱 I’m currently learning LLM evaluation, multimodal AI, and inference optimization  
 - 📫 Reach me at: siddhiwanzkhade@gmail.com  
