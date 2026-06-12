@@ -1,6 +1,6 @@
 ## Hi , I'm Siddhi 👋
 
-
+<img align="right" width="250" src="https://github.com/user-attachments/assets/4adf1961-bc14-428f-9c2a-d5af166afd23">
 Data Science enthusiast with a keen will to learn every passing day ! 
 
 I’m deeply interested in Machine Learning, Deep Learning, NLP, LLMs, Multimodal AI, and AI Agents.
@@ -13,8 +13,10 @@ I love connecting with people who are genuinely excited about data and AI and ar
 - 📫 Reach me at: siddhiwanzkhade@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/siddhi-wanzkhade](https://www.linkedin.com/in/siddhi-wanzkhade)
 - ⚡ Fun fact: I pick up new tools fast — curiosity usually gets there before the documentation does.
+- 
 
   ## I am familiar with
+  
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,9 +29,11 @@ I love connecting with people who are genuinely excited about data and AI and ar
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/VECTOR%20DATABASES-5B5FC7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
