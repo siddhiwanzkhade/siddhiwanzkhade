@@ -1,6 +1,5 @@
 ## Hi , I'm Siddhi 👋
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/4adf1961-bc14-428f-9c2a-d5af166afd23">
 Data Science enthusiast with a keen will to learn every passing day ! 
 
 I’m deeply interested in Machine Learning, Deep Learning, NLP, LLMs, Multimodal AI, and AI Agents.
