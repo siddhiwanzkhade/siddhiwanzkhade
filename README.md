@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on applied ML, NLP, and LLM-based systems  
 - 🌱 I’m currently learning LLM evaluation, multimodal AI, and inference optimization  
 - 📫 Reach me at: siddhiwanzkhade@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/siddhi-wanzkhade  
+- 🔗 LinkedIn: [linkedin.com/in/siddhi-wanzkhade](https://www.linkedin.com/in/siddhi-wanzkhade)
 - ⚡ Fun fact: I pick up new tools fast — curiosity usually gets there before the documentation does.
 
   ## I am familiar with
