@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **siddhiwanzkhade/siddhiwanzkhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Data Science enthusiast with a keen will to learn every passing day ! 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
