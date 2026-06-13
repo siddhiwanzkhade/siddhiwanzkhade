@@ -1,6 +1,6 @@
-## Hi , I'm Siddhi 👋
+## 💫 About Me:
 
-Data Science enthusiast with a keen will to learn every passing day ! 
+# Hii 👋 I'm Siddhi , a Data Science enthusiast with a keen will to learn every passing day ! 
 
 I’m deeply interested in Machine Learning, Deep Learning, NLP, LLMs, Multimodal AI, and AI Agents.
 I’m curious, always learning, and drawn to building data and AI systems that are not just intelligent, but also reliable, explainable, and useful in real-world settings. I care about creating work that solves meaningful problems and brings value to both people and businesses.
@@ -8,11 +8,15 @@ I’m curious, always learning, and drawn to building data and AI systems that a
 I love connecting with people who are genuinely excited about data and AI and are always up for a good conversation about what's next in this space.
 
 - 🔭 I’m currently working on applied ML, NLP, and LLM-based systems  
-- 🌱 I’m currently learning LLM evaluation, multimodal AI, and inference optimization  
-- 📫 Reach me at: siddhiwanzkhade@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/siddhi-wanzkhade](https://www.linkedin.com/in/siddhi-wanzkhade)
+- 🌱 Collaboration & Learning: Passionate about exploring AI safety, LLM evaluation frameworks, Multimodal AI ,Inference Optimization, MLOPs, LLMOps, and agentic systems — always seeking opportunities to build things that matter, from data to deployment.
 - ⚡ Fun fact: I pick up new tools fast — curiosity usually gets there before the documentation does.
-- 
+
+  ## 🌐 Socials:
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-wanzkhade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhiwanzkhade@gmail.com)
 
   ## I am familiar with
   
