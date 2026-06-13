@@ -13,11 +13,10 @@ I love connecting with people who are genuinely excited about data and AI and ar
 
   ## 🌐 Socials:
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-wanzkhade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhiwanzkhade@gmail.com)
 
+ 
   ## I am familiar with
   
 
@@ -40,3 +39,5 @@ I love connecting with people who are genuinely excited about data and AI and ar
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
