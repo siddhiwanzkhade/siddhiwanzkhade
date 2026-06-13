@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-# Hii 👋 I'm Siddhi , a Data Science enthusiast with a keen will to learn every passing day ! 
+ Hii I'm Siddhi , a Data Science enthusiast with a keen will to learn every passing day ! 
 
 I’m deeply interested in Machine Learning, Deep Learning, NLP, LLMs, Multimodal AI, and AI Agents.
 I’m curious, always learning, and drawn to building data and AI systems that are not just intelligent, but also reliable, explainable, and useful in real-world settings. I care about creating work that solves meaningful problems and brings value to both people and businesses.
