@@ -1,43 +1,79 @@
-##  👋  Hii, I'm Siddhi
+## Hi, I'm Siddhi Wanzkhade 👋
+AI/ML Engineer | Applied & Agentic AI | LLM Evaluation | AI Infrastructure | prev - Software Engineer @ Capgemini
 
-Data Science enthusiast with a keen will to learn every passing day ! 
+## 💫 About Me
+I'm a **Master's student in Data Science at Stony Brook University (SUNY) (graduating May 2027)**, and before that I spent **1.8 years as a Software Engineer at Capgemini**, building production-scale data and applied AI systems for enterprise clients.
 
-I’m deeply interested in Machine Learning, Deep Learning, NLP, LLMs, Multimodal AI, and AI Agents.
-I’m curious, always learning, and drawn to building data and AI systems that are not just intelligent, but also reliable, explainable, and useful in real-world settings. I care about creating work that solves meaningful problems and brings value to both people and businesses.
+My work sits at the intersection of applied AI, large language models, and the infrastructure that runs them. I enjoy taking a model from an idea to something real: building the system around it, measuring how well it actually works, and making it faster and more reliable.
+I'm particularly interested in **Machine Learning Engineering**, **AI Engineering**, and **Forward Deployed Engineering**, where I can combine hands-on development, working directly with customers, and real-world impact.
 
-I love connecting with people who are genuinely excited about data and AI and are always up for a good conversation about what's next in this space.
+## ⚡ What I Work On
 
-- 🔭 I’m currently working on applied ML, NLP, and LLM-based systems  
-- 🌱 Collaboration & Learning: Passionate about exploring AI safety, LLM evaluation frameworks, Multimodal AI ,Inference Optimization, MLOPs, LLMOps, and agentic systems — always seeking opportunities to build things that matter, from data to deployment.
-- ⚡ Fun fact: I pick up new tools fast — curiosity usually gets there before the documentation does.
+- 🤖 Build agentic AI systems using Python, LangGraph, and MCP servers that call tools and coordinate updates across multiple services.
+- 🔎 Develop LLM evaluation pipelines that catch hallucinations using knowledge graphs and verifier models, tested on 7,700+ real-world claims.
+- ⚡ Optimize inference for large and multimodal models through token pruning, quantization, and batched serving, improving throughput by up to 29%.
+- ⚙️ Built a retrieval-augmented recommendation system with a ranking model for enterprise exception triage, improving triage efficiency by 60%.
+- 🧠 Apply machine learning and NLP to improve data quality, including consolidating 11,000+ redundant SAP field definitions using sentence-transformer embeddings and clustering.
+- 📊 Engineered production data pipelines with Python, SQL, PySpark, and Azure for 3+ enterprise clients, processing 3M+ records and cutting processing time by 80%.
 
-  ## 🌐 Socials:
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-wanzkhade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhiwanzkhade@gmail.com)
+### 🔍 [FactGraph Verifier | Knowledge-Graph-Grounded Hallucination Detection](https://github.com/siddhiwanzkhade/FactGraph-Verifier)
+A hallucination detection system that grounds LLM claims in a Wikidata knowledge graph and falls back to semantic search when wording and schema don't line up, so far fewer false claims slip through.
 
- 
-  ## I am familiar with
-  
+`Python` · `Neo4j` · `Llama-3.3-70B` · `DeBERTa` · `Qwen2.5` · `Sentence-Transformers`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/VECTOR%20DATABASES-5B5FC7?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🔄 [MCP Cross-System Update Agent | Agentic Multi-Service Upgrades](https://github.com/siddhiwanzkhade/MCP-Cross_System_Update_Agent)
+An agentic AI system that lets LLM agents upgrade libraries across services as one atomic unit, built to stay safe even when several agents act at once.
 
----
+`Python` · `FastMCP` · `Model Context Protocol` · `SQLite` · `Docker` · `Git`
+
+### 👁️ [Adaptive Visual Tokens for Vision-Language Models](https://github.com/siddhiwanzkhade/Adaptive-VisualTokens-)
+A vision-language model optimization that lets each question decide how much of the image to process, profiled down to the GPU level and tuned for batched serving.
+
+`Python` · `PyTorch` · `Hugging Face` · `LLaVA` · `QLoRA` · `NVIDIA Nsight`
+
+### 🛒 [Resolve-Claim AI | Multimodal Agentic RAG for E-Commerce Claims](https://github.com/siddhiwanzkhade/Resolve-Claim-AI)
+A multi-agent system where specialized agents for complaints, orders, images, and policies work under one supervisor to resolve e-commerce claims end to end.
+
+`Python` · `LangGraph` · `LangChain` · `Pinecone` · `Pydantic` · `Groq`
+
+
+### 🌊 [Stress-Testing Windowed Stream Joins | Real-Time Data Under Real-World Failures](https://github.com/siddhiwanzkhade/Stress-Testing-Windowed-Stream-Joins)
+A streaming systems study that joins live order and payment streams while injecting late arrivals, traffic bursts, and skewed keys together, measuring whether these failures add up or compound when they hit at the same time.
+
+`Apache Kafka` · `Spark Structured Streaming` · `Python`
+
+## 🛠️ Skills & Technologies
+
+**Languages:** Python · SQL · R · C++ · Java
+
+**AI & LLMs:** LLM Fine-Tuning (PEFT / QLoRA) · LLM Evaluation · RAG · Knowledge Graphs · PyTorch · Hugging Face · LangChain · Sentence-Transformers · scikit-learn
+
+**Agentic AI:** LangGraph · CrewAI · Model Context Protocol (MCP) · FastMCP
+
+**AI Infrastructure:** Inference Optimization · Quantization · vLLM · NVIDIA Nsight
+
+**Data Engineering:** Apache Spark · Apache Kafka · Azure Databricks
+
+**Backend & Databases:** FastAPI · PostgreSQL · Neo4j · Pinecone
+
+**Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD · Git
+
+## 🧠 Currently Deepening My Expertise In
+
+- AI agents, MCP servers, reusable skills, and multi-step workflow orchestration
+- LLM evaluation and hallucination detection, now extending into safety and privacy risks
+- RAG systems and AI observability, measuring how AI systems behave once they're live
+- Taking agentic systems from prototype to production with cloud deployment and scalable backends
+- Efficient serving for large and multimodal models
+
+## 🤝 Let's Connect
+
+Give me a problem and I'll try five ways to solve it, break three of them, and learn something from every one. I don't stop at "it works". I want to know *why* it works.
+
+I'm always happy to talk with people building AI agents, LLM systems, and AI infrastructure, or teams looking for someone who can take AI from idea to production. I'm open to full-time roles starting May 2027.
+
+[LinkedIn](https://www.linkedin.com/in/siddhi-wanzkhade/)  · [Email](mailto:siddhiwanzkhade@gmail.com)
+
+
