@@ -1,5 +1,5 @@
 ## Hi, I'm Siddhi Wanzkhade 👋
-AI/ML Engineer | Applied & Agentic AI | LLM Evaluation | AI Infrastructure | prev - Software Engineer @ Capgemini
+## AI/ML Engineer | Applied & Agentic AI | LLM Evaluation | AI Infrastructure | prev - Software Engineer @ Capgemini
 
 ## 💫 About Me
 I'm a **Master's student in Data Science at Stony Brook University (SUNY) (graduating May 2027)**, and before that I spent **1.8 years as a Software Engineer at Capgemini**, building production-scale data and applied AI systems for enterprise clients.
@@ -21,28 +21,27 @@ I'm particularly interested in **Machine Learning Engineering**, **AI Engineerin
 ### 🔍 [FactGraph Verifier | Knowledge-Graph-Grounded Hallucination Detection](https://github.com/siddhiwanzkhade/FactGraph-Verifier)
 A hallucination detection system that grounds LLM claims in a Wikidata knowledge graph and falls back to semantic search when wording and schema don't line up, so far fewer false claims slip through.
 
-`Python` · `Neo4j` · `Llama-3.3-70B` · `DeBERTa` · `Qwen2.5` · `Sentence-Transformers`
+#### Python · Knowledge Graphs · Neo4j · Natural Language Inference · LLM-as-a-Judge · Sentence-Transformers
 
 ### 🔄 [MCP Cross-System Update Agent | Agentic Multi-Service Upgrades](https://github.com/siddhiwanzkhade/MCP-Cross_System_Update_Agent)
 An agentic AI system that lets LLM agents upgrade libraries across services as one atomic unit, built to stay safe even when several agents act at once.
 
-`Python` · `FastMCP` · `Model Context Protocol` · `SQLite` · `Docker` · `Git`
+#### Python · Model Context Protocol · FastMCP · Tool Calling · SQLite · Docker · Git
 
 ### 👁️ [Adaptive Visual Tokens for Vision-Language Models](https://github.com/siddhiwanzkhade/Adaptive-VisualTokens-)
 A vision-language model optimization that lets each question decide how much of the image to process, profiled down to the GPU level and tuned for batched serving.
 
-`Python` · `PyTorch` · `Hugging Face` · `LLaVA` · `QLoRA` · `NVIDIA Nsight`
+#### Python · PyTorch · Hugging Face · LLaVA · QLoRA · NVIDIA Nsight
 
 ### 🛒 [Resolve-Claim AI | Multimodal Agentic RAG for E-Commerce Claims](https://github.com/siddhiwanzkhade/Resolve-Claim-AI)
 A multi-agent system where specialized agents for complaints, orders, images, and policies work under one supervisor to resolve e-commerce claims end to end.
 
-`Python` · `LangGraph` · `LangChain` · `Pinecone` · `Pydantic` · `Groq`
-
+#### Python · LangGraph · LangChain · RAG · Pinecone · Pydantic · Multimodal AI
 
 ### 🌊 [Stress-Testing Windowed Stream Joins | Real-Time Data Under Real-World Failures](https://github.com/siddhiwanzkhade/Stress-Testing-Windowed-Stream-Joins)
 A streaming systems study that joins live order and payment streams while injecting late arrivals, traffic bursts, and skewed keys together, measuring whether these failures add up or compound when they hit at the same time.
 
-`Apache Kafka` · `Spark Structured Streaming` · `Python`
+#### Apache Kafka · Spark Structured Streaming · Python
 
 ## 🛠️ Skills & Technologies
 
