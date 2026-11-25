@@ -1,5 +1,5 @@
 ## Hi, I'm Siddhi Wanzkhade 👋
-## AI/ML Engineer | Applied & Agentic AI | LLM Evaluation | AI Infrastructure | prev - Software Engineer @ Capgemini
+### AI/ML Engineer | Applied & Agentic AI | LLM Evaluation | AI Infrastructure | prev - Software Engineer @ Capgemini
 
 ## 💫 About Me
 I'm a **Master's student in Data Science at Stony Brook University (SUNY) (graduating May 2027)**, and before that I spent **1.8 years as a Software Engineer at Capgemini**, building production-scale data and applied AI systems for enterprise clients.
