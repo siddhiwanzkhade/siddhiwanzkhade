@@ -31,7 +31,7 @@ An agentic AI system that lets LLM agents upgrade libraries across services as o
 ### 👁️ [Adaptive Visual Tokens for Vision-Language Models](https://github.com/siddhiwanzkhade/Adaptive-VisualTokens-)
 A vision-language model optimization that lets each question decide how much of the image to process, profiled down to the GPU level and tuned for batched serving.
 
-#### Python · PyTorch · Hugging Face · LLaVA · QLoRA · NVIDIA Nsight
+#### Python · PyTorch · Hugging Face · LLaVA-1.5-7B · QLoRA · NVIDIA Nsight
 
 ### 🛒 [Resolve-Claim AI | Multimodal Agentic RAG for E-Commerce Claims](https://github.com/siddhiwanzkhade/Resolve-Claim-AI)
 A multi-agent system where specialized agents for complaints, orders, images, and policies work under one supervisor to resolve e-commerce claims end to end.
