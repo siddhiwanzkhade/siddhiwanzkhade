@@ -19,7 +19,7 @@ I'm particularly interested in **Machine Learning Engineering**, **AI Engineerin
 ## 🚀 Featured Projects
 
 ### 🔍 [FactGraph Verifier | Knowledge-Graph-Grounded Hallucination Detection](https://github.com/siddhiwanzkhade/FactGraph-Verifier)
-A hallucination detection pipeline that validates LLM-generated claims against a Wikidata knowledge graph, with hybrid retrieval that combines exact graph lookup and semantic search to handle mismatched phrasing.
+An LLM Evaluation and hallucination detection pipeline that validates LLM-generated claims against a Wikidata knowledge graph, with hybrid retrieval that combines exact graph lookup and semantic search to handle mismatched phrasing.
 
 #### Python · Knowledge Graphs · Neo4j · Natural Language Inference · LLM-as-a-Judge · Sentence-Transformers
 
